@@ -57,7 +57,7 @@ p {
 }
 
 ol li {
-    background-color: #fff;
+    background-color: #f0fbbd;
     color: blueviolet;
     border-radius: 15px;
     margin-left: 250px;
@@ -74,9 +74,6 @@ li table td {
     padding-top: 20px;
 }
 
-li table td:first-child {
-    width: 70%;
-}
 
 td p {
     padding-bottom: 10px;
