@@ -1,0 +1,102 @@
+h1 {
+    font-size: 100px;
+    font-family: Futura, sans-serif;
+    color: rgb(251, 142, 70);
+    text-align: center;
+    font-weight: bold;
+    margin: 0px;
+    line-height: 70px;
+    margin-top: 0.67em;
+
+}
+
+h2 {
+    font-size: 60px;
+    font-style: italic;
+    line-height: 20px;
+    padding-left: 200px;
+    text-align: left;
+    margin: 15px;
+    line-height: 60px;
+    color: rgb(125, 203, 245);
+}
+
+h3 {
+    font-size: 50px;
+    font-style: oblique;
+    color: rgb(211, 241, 181);
+    line-height: 200px;
+    text-align: left;
+    padding-left: 0px;
+    margin-top: 250px;
+    margin-left: 250px;
+    margin-bottom: 20;
+    line-height: 60px;
+}
+
+body {
+    color: rgb(251, 255, 0);
+    font-family: Futura, sans-serif;
+    font-size: 30px;
+    text-align: left;
+    background-color: rgb(48, 8, 85);
+}
+
+div {
+    width: 800px;
+    padding-top: 10px;
+    padding-bottom: 250px;
+    border: 2px color rgba(250, 242, 7, 0.407);
+    margin-left: 250px;
+    margin-top: 20px;
+    margin-bottom: 250px;
+}
+
+p {
+    text-align: left;
+}
+
+ol li {
+    background-color: #fff;
+    color: blueviolet;
+    border-radius: 15px;
+    margin-left: 250px;
+    padding: 20px;
+    box-shadow: 0px 1.5px 2px 0px rgb(91, 91, 91);
+}
+
+li table {
+    width: 100%;
+}
+
+li table td {
+    vertical-align: top;
+    padding-top: 20px;
+}
+
+li table td:first-child {
+    width: 70%;
+}
+
+td p {
+    padding-bottom: 10px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
+}
+
+img {
+    padding-left: 0px;
+    margin-top: 100px;
+    margin-left: 250px;
+    margin-bottom: 20;
+}
+
+strong {
+    font-weight: bold;
+}
