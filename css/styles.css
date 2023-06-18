@@ -53,7 +53,7 @@ div {
 }
 
 p {
-    text-align: left;
+    float: left
 }
 
 ol li {
