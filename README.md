@@ -16,7 +16,7 @@ This is a basic portfolio landing page. It includes an about me, work and a hobb
 
 ## Setup/Installation requirements
 
-* Clone repo from Github to your desktop with this command. $ git clone *https://mishymushy.github.io/portfolioLandingPage/
+* Clone repo from Github to your desktop with this command. $ git clone https://mishymushy.github.io/portfolioLandingPage/
 
 * Open index.html in a browser. 
 
